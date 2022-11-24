@@ -4,7 +4,12 @@
 
 </p>
 
-### Hi Welcom, I'm HYEJIN KIM 🔥😎
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejin-github&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejin-github)](https://github.com/hyejin-github/github-readme-stats)
+
+  ### Hi Welcom, I'm HYEJIN KIM 🔥😎
 
 #### Backend-Developer
 
@@ -17,7 +22,8 @@
 #### 📢 Communication Skill
 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/PostMan-D24939?style=for-the-badge&logo=PostMan&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-010101?style=for-the-badge&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/tistory-A8B9CC?style=for-the-badge&logo=tistory&logoColor=white"/>
-
+  
+</div>
 
 
 <br />
@@ -27,8 +33,8 @@
 
 - Name : Kim HyeJin
 - Birth : 1998.12.04
-- Email : aa981204@naver.com
 - College : Chonnam National University
+- Email : aa981204@naver.com
 - Tistory : https://luceinalitis.tistory.com/
 
 ### 🔥 Experience
@@ -58,17 +64,4 @@
 - 2022 삼성청년소프트웨어 자율프로젝트 우수상(HandFarm)
 
 <br />
-
-### Etc
-
-<div style="display : flex; justify-contents : center; align-items: center;">
-  
-<div>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejin-github)](https://github.com/hyejin-github/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejin-github&show_icons=true&theme=radical)
-  
-</div>
-
 
